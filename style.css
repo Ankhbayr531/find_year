@@ -1,0 +1,40 @@
+.h1{
+	color : black;
+	font-size:30px;
+	text-align:center;
+	text-transform:uppercase;
+}
+.h2{
+    font-size:100px;
+	text-align:center;
+}
+.one{
+    width:30%;
+	height:40px;
+	background-color:#00BFFF;
+	text-align:center;
+	font-size:20px;
+	padding-top:15px;
+	border:2px solid #000;
+	margin-bottom:20px;
+}
+.two{
+    width:30%;
+	height:40px;
+	background-color:#00BFFF;
+	text-align:center;
+	font-size:20px;
+	padding-top:15px;
+	border:2px solid #000;
+	margin-bottom:20px;
+}
+.three{
+    width:30%;
+	height:40px;
+	background-color:#00BFFF;
+	text-align:center;
+	font-size:20px;
+	padding-top:15px;
+	border:2px solid #000;
+	margin-bottom:20px;
+}
